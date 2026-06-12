@@ -288,16 +288,6 @@ Developed and maintained production AI/LLM services integrated with OpenAI and A
 
 ---
 
-**Scientific Researcher (Computer Vision)** &nbsp;·&nbsp; **ZALF — Leibniz Centre for Agricultural Land Research** &nbsp;·&nbsp; Brandenburg, Germany
-`Apr 2025 – Present`
-
-Conducting computer vision research for agricultural land classification as part of the Master's thesis program. Primary focus on loss function design and evaluation in deep learning models for remote sensing and land classification tasks.
-
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=8B5CF6)
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=8B5CF6)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=8B5CF6)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1a1a2e?style=flat-square&logo=opencv&logoColor=8B5CF6)
-
 ---
 
 **Full-Stack Developer — AI Integration** &nbsp;·&nbsp; **Tideforce** &nbsp;·&nbsp; Munich, Germany
@@ -323,7 +313,6 @@ Designed and shipped full-stack web applications using React, TypeScript, Node.j
 | 🏆 **TCS Tech Bytes Winner** | National AI Competition — Top performer across India · 2022 |
 | 🎓 **MSc Artificial Intelligence** | Brandenburg Technical University, Cottbus · GPA track · 2023–Present |
 | 🥇 **BE Computer Science** | Grade 1.7 (German equivalent) · KLE Dr. M. S. Sheshgiri CET · 2022 |
-| 🔬 **Research Publication Track** | Loss functions in deep learning for agricultural land classification · ZALF · 2025 |
 | 🤖 **Multi-Agent System Architecture** | 50-agent video intelligence system — novel persona-injection orchestration design |
 | 🌍 **Open Government Data Integration** | SafeBerlin — Bundeskriminalamt crime API pipeline for live safety routing |
 
