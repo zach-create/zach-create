@@ -44,7 +44,6 @@ I'm an **AI Engineer and Full-Stack Software Developer** currently pursuing my *
 
 My engineering philosophy: ship things that work reliably under pressure, are observable in production, and are designed to be extended by teams. I'm equally comfortable at the model integration layer and the frontend.
 
-- 🔬 **Research** — Computer Vision for agricultural land classification at ZALF (Leibniz Centre), with thesis focus on loss functions in deep learning
 - 🤖 **AI Systems** — RAG pipelines, multi-agent orchestration, LangChain, LangGraph, OpenAI & Anthropic APIs
 - 🏗️ **Full-Stack** — React, Next.js, FastAPI, Node.js, PostgreSQL, Docker, AWS
 - 📍 **Location** — Brandenburg, Germany · Targeting Berlin
@@ -336,27 +335,6 @@ Designed and shipped full-stack web applications using React, TypeScript, Node.j
 
 ---
 
-## `$ ls ./coding-profiles`
-
-<p align="center">
-  <a href="https://leetcode.com/anishjadhav" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/anishjadhav" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/anishjadhav" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/anishjadhav" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## `$ git log --analytics`
 
@@ -372,13 +350,7 @@ Designed and shipped full-stack web applications using React, TypeScript, Node.j
 
 ---
 
-## `$ git trophy --display`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anishjadhav&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
-
----
 
 ## `$ git log --activity`
 
@@ -388,51 +360,6 @@ Designed and shipped full-stack web applications using React, TypeScript, Node.j
 
 ---
 
-## `$ watch --snake ./contributions`
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishjadhav/anishjadhav/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anishjadhav/anishjadhav/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/anishjadhav/anishjadhav/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-## `$ cat ./current-focus.yaml`
-
-```yaml
-engineer:
-  name: Anish Maruti Jadhav
-  role: AI Engineer · Full-Stack Developer · MSc AI Researcher
-
-learning:
-  - Advanced loss function design for semantic segmentation
-  - LangGraph multi-agent orchestration patterns
-  - AWS Solutions Architect fundamentals
-  - Distributed systems and production observability
-
-building:
-  - Viral Jury: 50-agent video virality prediction system
-  - AI Research Copilot: multi-document LLM reasoning platform
-  - SafeBerlin: crime-aware urban routing with federal open data
-
-exploring:
-  - Evaluation frameworks for RAG pipelines
-  - Claude Code and agentic development workflows
-  - Vector database optimization for semantic retrieval
-  - MLOps tooling: MLflow, experiment tracking, model versioning
-
-open_to:
-  - Working Student (SWE / AI / Backend)
-  - Internship (AI Engineering / Full-Stack)
-  - Junior Developer Roles
-  - Berlin-based or Remote positions
-  - Roles in AI Infrastructure, LLM Tooling, or Applied Research
-```
-
----
 
 ## `$ curl --connect ./socials`
 
@@ -447,7 +374,7 @@ open_to:
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/anishjadhav" target="_blank">
+  <a href="https://github.com/zach-create" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-anishjadhav-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
