@@ -339,7 +339,7 @@ Designed and shipped full-stack web applications using React, TypeScript, Node.j
 ## `$ git log --analytics`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishjadhav&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=8B5CF6&icon_color=6D28D9&text_color=c4b5fd&include_all_commits=true&count_private=348" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anishjadhav&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=8B5CF6&icon_color=6D28D9&text_color=c4b5fd&include_all_commits=true&count_private=348" height="180" />34
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishjadhav&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=8B5CF6&fire=6D28D9&currStreakLabel=c4b5fd" height="180" />
 </p>
