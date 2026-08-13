@@ -50,7 +50,7 @@ My engineering philosophy: ship things that work reliably under pressure, are ob
 
 <br />
 
-**Open To:** Working Student · SWE Internship · Junior AI/Backend Engineer · ML Engineering Roles
+**Currently :** Working Student At Next Intelligence
 
 ---
 
